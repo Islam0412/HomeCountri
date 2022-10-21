@@ -1,4 +1,4 @@
-package com.murat.a_1_homework_4;
+
 
 public class Country {
     private String countryName;
